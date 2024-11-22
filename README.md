@@ -127,7 +127,8 @@ To perform the function simulation, the following three steps are involved Compi
 ### Fig 6: Nclaunch Window
 
 
-![Screenshot (48)](https://github.com/user-attachments/assets/b0ffff31-2309-4f32-8c04-6428f7709d6b)
+![Uploading Screenshot (49).png…]()
+
 
 
 
@@ -154,8 +155,7 @@ Left side select the file and in Tools : launch verilog compiler with current se
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
-
-![Screenshot (49)](https://github.com/user-attachments/assets/2139909f-9978-4f56-8c24-40a0888486d2)
+![Screenshot (50)](https://github.com/user-attachments/assets/414984b6-cdb6-48ac-9966-3a80c0fcb842)
 
 
 
@@ -195,15 +195,16 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
+![Screenshot (51)](https://github.com/user-attachments/assets/27517e46-258b-49fd-a04a-d2e4f166736f)
 
-![Screenshot (50)](https://github.com/user-attachments/assets/14b053fc-e966-4fc2-bcb8-4ce5be3ea3ff)
 
 
 
 
 ## Fig 8: Elaboration Launch Option
 
-![Screenshot (51)](https://github.com/user-attachments/assets/31d7d20c-7827-4151-972f-e670f5180c3c)
+![Screenshot (52)](https://github.com/user-attachments/assets/7a886bee-6c8d-4b1d-9181-c54895855baa)
+
 
 
 
@@ -221,14 +222,15 @@ Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 9: Design Browser window for simulation
 
+![Screenshot (53)](https://github.com/user-attachments/assets/731d6d24-4a3c-4a77-880d-23a2aaac6749)
 
-![Screenshot (52)](https://github.com/user-attachments/assets/bd294a3d-e82e-44ac-bf3f-b3027097c641)
 
 
 
 ## Fig 10:Simulation Waveform Window
 
-![Screenshot (53)](https://github.com/user-attachments/assets/05af613b-0473-4822-ac13-d2a0a0da8914)
+![Screenshot (54)](https://github.com/user-attachments/assets/2a14132e-3e31-4df6-90dd-99d0fe267aeb)
+
 
 
 

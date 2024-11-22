@@ -132,6 +132,7 @@ To perform the function simulation, the following three steps are involved Compi
 
 
 
+
 ## Step 1: Compilation:
 
 – Process to check the correct Verilog language syntax and usage 

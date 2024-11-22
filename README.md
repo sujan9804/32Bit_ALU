@@ -127,7 +127,8 @@ To perform the function simulation, the following three steps are involved Compi
 ### Fig 6: Nclaunch Window
 
 
-![Uploading Screenshot (49).png…]()
+![Screenshot (49)](https://github.com/user-attachments/assets/49c93f0b-91d0-4a00-90f0-ca45d50c70f5)
+
 
 
 
@@ -156,7 +157,8 @@ Left side select the file and in Tools : launch verilog compiler with current se
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
-![Screenshot (50)](https://github.com/user-attachments/assets/414984b6-cdb6-48ac-9966-3a80c0fcb842)
+![Screenshot (50)](https://github.com/user-attachments/assets/0c9d7bdc-d186-4417-be11-ef3e33dfb0b2)
+
 
 
 
